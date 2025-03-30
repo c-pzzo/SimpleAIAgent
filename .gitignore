@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Virtual Environment
+.zumma_env/
+
 # C extensions
 *.so
 
