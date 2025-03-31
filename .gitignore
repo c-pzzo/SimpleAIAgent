@@ -6,6 +6,12 @@ __pycache__/
 # Virtual Environment
 .zumma_env/
 
+# Service Account and API keys
+main-keys.json
+
+# Tests Folder
+tests/
+
 # C extensions
 *.so
 

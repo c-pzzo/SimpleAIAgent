@@ -37,3 +37,11 @@ Este consiste en crear un pequeño AI Agent que lea la información de cualquier
 - La navegación web debe realizarse con **Playwright** ([documentación](https://playwright.dev/)).
 - Se debe incluir **documentación clara** sobre cómo instalar, ejecutar y usar la solución.
 - **No usar agentes de IA preconstruidos o bibliotecas que automaticen completamente la tarea** (como `browseruse` o `stagehand`).
+
+# Google Services
+- Gemini API
+- Firestore
+- Google Cloud Storage
+- Secrets Manager
+- Google Cloud Build
+- Google Cloud Run
