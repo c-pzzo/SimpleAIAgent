@@ -1,0 +1,21 @@
+{
+    "user_data": {
+        "Razon_social": "Ferris Aircraft",
+        "codigo_postal": "85002",
+        "colonia": "Coast City Industrial Park",
+        "población": "Coast City",
+        "correo_electronico": "carol.ferris@ferrisair.com",
+        "uso_de_cfdi": "G03 - Gastos en general",
+        "delegacion_municipio": "Aerospace District",
+        "estado": "CA",
+        "regimen_fiscal": "601 - General de Ley Personas Morales"
+    },
+    "ticket_data": {
+        "store_name": "Aircraft Parts Depot",
+        "store_address": "888 Jetway Dr, Coast City",
+        "ticket_number": "CC202503300000006",
+        "ticket_date": "2025-03-30",
+        "ticket_total": "7800.00",
+        "billing_url": "https://billing.example.com/ticket/CC202503300000006"
+    }
+}

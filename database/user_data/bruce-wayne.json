@@ -1,0 +1,21 @@
+{
+    "user_data": {
+        "Razon_social": "Wayne Enterprises",
+        "codigo_postal": "90001",
+        "colonia": "Gotham Financial District",
+        "población": "Gotham City",
+        "correo_electronico": "bruce.wayne@wayneindustries.com",
+        "uso_de_cfdi": "G03 - Gastos en general",
+        "delegacion_municipio": "Gotham Central",
+        "estado": "NJ",
+        "regimen_fiscal": "601 - General de Ley Personas Morales"
+    },
+    "ticket_data": {
+        "store_name": "Luxury Car Dealership",
+        "store_address": "500 Wayne Tower, Gotham City",
+        "ticket_number": "GC202503300000003",
+        "ticket_date": "2025-03-30",
+        "ticket_total": "250000.00",
+        "billing_url": "https://billing.example.com/ticket/GC202503300000003"
+    }
+}

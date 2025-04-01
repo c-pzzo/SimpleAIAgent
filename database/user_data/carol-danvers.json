@@ -1,0 +1,21 @@
+{
+    "user_data": {
+        "Razon_social": "Carol Danvers Aviation",
+        "codigo_postal": "77001",
+        "colonia": "NASA Research Center",
+        "población": "Houston",
+        "correo_electronico": "carol.danvers@nasa.gov",
+        "uso_de_cfdi": "G03 - Gastos en general",
+        "delegacion_municipio": "Johnson Space Center",
+        "estado": "TX",
+        "regimen_fiscal": "601 - General de Ley Personas Morales"
+    },
+    "ticket_data": {
+        "store_name": "Space Exploration Store",
+        "store_address": "1601 NASA Pkwy, Houston",
+        "ticket_number": "TX202503300000005",
+        "ticket_date": "2025-03-30",
+        "ticket_total": "320.00",
+        "billing_url": "https://billing.example.com/ticket/TX202503300000005"
+    }
+}

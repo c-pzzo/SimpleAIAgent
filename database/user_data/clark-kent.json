@@ -1,0 +1,21 @@
+{
+    "user_data": {
+        "Razon_social": "Clark Kent Enterprises",
+        "codigo_postal": "10001",
+        "colonia": "Metropolis Downtown",
+        "población": "Metropolis",
+        "correo_electronico": "clark.kent@dailyplanet.com",
+        "uso_de_cfdi": "G03 - Gastos en general",
+        "delegacion_municipio": "Midtown",
+        "estado": "NY",
+        "regimen_fiscal": "601 - General de Ley Personas Morales"
+    },
+    "ticket_data": {
+        "store_name": "Daily Planet Café",
+        "store_address": "344 Clinton St, Metropolis",
+        "ticket_number": "MP202503300000001",
+        "ticket_date": "2025-03-30",
+        "ticket_total": "25.00",
+        "billing_url": "https://billing.example.com/ticket/MP202503300000001"
+    }
+}

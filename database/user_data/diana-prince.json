@@ -1,0 +1,21 @@
+{
+    "user_data": {
+        "Razon_social": "Diana Prince Antiques",
+        "codigo_postal": "20002",
+        "colonia": "Themyscira Heights",
+        "población": "Washington D.C.",
+        "correo_electronico": "diana.prince@smithsonian.org",
+        "uso_de_cfdi": "G03 - Gastos en general",
+        "delegacion_municipio": "National Mall",
+        "estado": "DC",
+        "regimen_fiscal": "601 - General de Ley Personas Morales"
+    },
+    "ticket_data": {
+        "store_name": "Ancient Relics Shop",
+        "store_address": "400 National Ave, Washington D.C.",
+        "ticket_number": "DC202503300000002",
+        "ticket_date": "2025-03-30",
+        "ticket_total": "120.00",
+        "billing_url": "https://billing.example.com/ticket/DC202503300000002"
+    }
+}

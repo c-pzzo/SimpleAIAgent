@@ -1,0 +1,21 @@
+{
+    "user_data": {
+        "Razon_social": "Hal Jordan Aerospace",
+        "codigo_postal": "85001",
+        "colonia": "Coast City Airbase",
+        "población": "Coast City",
+        "correo_electronico": "hal.jordan@usaf.mil",
+        "uso_de_cfdi": "G03 - Gastos en general",
+        "delegacion_municipio": "Coastline",
+        "estado": "CA",
+        "regimen_fiscal": "601 - General de Ley Personas Morales"
+    },
+    "ticket_data": {
+        "store_name": "Flight Gear Supply",
+        "store_address": "777 Airbase Rd, Coast City",
+        "ticket_number": "CC202503300000004",
+        "ticket_date": "2025-03-30",
+        "ticket_total": "450.00",
+        "billing_url": "https://billing.example.com/ticket/CC202503300000004"
+    }
+}
