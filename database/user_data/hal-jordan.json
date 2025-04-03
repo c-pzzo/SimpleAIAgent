@@ -1,5 +1,6 @@
 {
     "user_data": {
+        "RFC": "LMN654321P7X",
         "Razon_social": "Hal Jordan Aerospace",
         "codigo_postal": "85001",
         "colonia": "Coast City Airbase",
@@ -11,7 +12,7 @@
         "regimen_fiscal": "601 - General de Ley Personas Morales"
     },
     "ticket_data": {
-        "store_name": "Flight Gear Supply",
+        "store_name": "Burger King",
         "store_address": "777 Airbase Rd, Coast City",
         "ticket_number": "CC202503300000004",
         "ticket_date": "2025-03-30",

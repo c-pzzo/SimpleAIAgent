@@ -1,5 +1,6 @@
 {
     "user_data": {
+        "RFC": "DEF741852Q2Y",
         "Razon_social": "Ferris Aircraft",
         "codigo_postal": "85002",
         "colonia": "Coast City Industrial Park",
@@ -11,7 +12,7 @@
         "regimen_fiscal": "601 - General de Ley Personas Morales"
     },
     "ticket_data": {
-        "store_name": "Aircraft Parts Depot",
+        "store_name": "Vips",
         "store_address": "888 Jetway Dr, Coast City",
         "ticket_number": "CC202503300000006",
         "ticket_date": "2025-03-30",

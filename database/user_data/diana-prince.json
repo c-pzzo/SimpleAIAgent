@@ -1,5 +1,6 @@
 {
     "user_data": {
+        "RFC": "GHI369258R5W",
         "Razon_social": "Diana Prince Antiques",
         "codigo_postal": "20002",
         "colonia": "Themyscira Heights",
@@ -12,10 +13,10 @@
     },
     "ticket_data": {
         "store_name": "Ancient Relics Shop",
-        "store_address": "400 National Ave, Washington D.C.",
+        "store_address": "400 National Ave, SAN JERONIMO, Washington D.C.",
         "ticket_number": "DC202503300000002",
         "ticket_date": "2025-03-30",
         "ticket_total": "120.00",
-        "billing_url": "https://billing.example.com/ticket/DC202503300000002"
+        "billing_url": "https://www.monparis.mx/facturacion"
     }
 }

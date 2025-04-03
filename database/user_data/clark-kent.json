@@ -1,6 +1,7 @@
 {
     "user_data": {
-        "Razon_social": "Clark Kent Enterprises",
+        "RFC": "JKL852963S8V",
+        "Razon_social": "Daily Planet",
         "codigo_postal": "10001",
         "colonia": "Metropolis Downtown",
         "población": "Metropolis",
@@ -16,6 +17,6 @@
         "ticket_number": "MP202503300000001",
         "ticket_date": "2025-03-30",
         "ticket_total": "25.00",
-        "billing_url": "https://billing.example.com/ticket/MP202503300000001"
+        "billing_url": "https://www.alsea.com.mx/factura-electronica.html"
     }
 }

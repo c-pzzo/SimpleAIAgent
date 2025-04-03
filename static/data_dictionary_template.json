@@ -1,5 +1,9 @@
 {
     "user_data":{
+        "RFC": {
+            "value": "",
+            "description": "A unique alphanumeric identifier assigned by Mexico’s tax authority (SAT) to individuals and businesses for tax and invoicing purposes."
+        },
         "Razon_social": {
             "value": "",
             "description": "Legal name of the company or individual"

@@ -1,5 +1,6 @@
 {
     "user_data": {
+        "RFC": "ABC987654M3Z",
         "Razon_social": "Carol Danvers Aviation",
         "codigo_postal": "77001",
         "colonia": "NASA Research Center",
@@ -11,7 +12,7 @@
         "regimen_fiscal": "601 - General de Ley Personas Morales"
     },
     "ticket_data": {
-        "store_name": "Space Exploration Store",
+        "store_name": "Italianni's",
         "store_address": "1601 NASA Pkwy, Houston",
         "ticket_number": "TX202503300000005",
         "ticket_date": "2025-03-30",

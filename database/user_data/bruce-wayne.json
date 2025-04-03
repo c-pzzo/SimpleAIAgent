@@ -1,5 +1,6 @@
 {
     "user_data": {
+        "RFC": "XYZ123456T9A",
         "Razon_social": "Wayne Enterprises",
         "codigo_postal": "90001",
         "colonia": "Gotham Financial District",
@@ -11,7 +12,7 @@
         "regimen_fiscal": "601 - General de Ley Personas Morales"
     },
     "ticket_data": {
-        "store_name": "Luxury Car Dealership",
+        "store_name": "The Cheesecake Factory",
         "store_address": "500 Wayne Tower, Gotham City",
         "ticket_number": "GC202503300000003",
         "ticket_date": "2025-03-30",
